@@ -1,6 +1,5 @@
 "use client";
-import ContactForm from "@/components/common/contact-forn";
-import Image from "next/image";
+
 
 
 export default function ContactPage() {
